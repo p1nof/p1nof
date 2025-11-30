@@ -1,5 +1,5 @@
 # Hello, I'm Felipe
-<a href="www.linkedin.com/in/fpinol"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/fpinol"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Driven by continuous learning, I focus on mastering technology while applying a clear, evidence-based approach to every project.
 
